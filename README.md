@@ -12,16 +12,17 @@ A/B tests are very commonly performed by data analysts and data scientists.For t
 
 You need an installation of Python, plus the following libraries:
 
-numpy
-pandas
-matplotlib.pyplot
-statsmodels.api
-Statistical analysis
+- numpy
+- pandas
+- matplotlib.pyplot
+- statsmodels.api
 
-Bootstrapping sampling distributions and p-value calculations
-Z-core test
-Logistic regression
-Multiple linear regression
+### Statistical analysis
+
+- Bootstrapping sampling distributions and p-value calculations
+- Z-core test
+- Logistic regression
+- Multiple linear regression
 
 ### Key findings
 
